@@ -1,0 +1,12 @@
+.formBranchContainer{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    left: 0;
+}
+
+.formBranchContainer2{
+    height: 50%;
+    width: 30%;
+    margin: auto;
+}
